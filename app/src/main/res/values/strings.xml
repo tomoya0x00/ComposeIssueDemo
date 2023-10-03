@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeIssueDemo</string>
+    <string name="title_activity_modal">ModalActivity</string>
+</resources>
